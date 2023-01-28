@@ -1,0 +1,29 @@
+{
+  "name": "dark-solarin-3",
+  "displayName": "dark-solarin-3",
+  "description": "A dark theme extension for Visual Studio Code",
+  "version": "1.0.0",
+  "publisher": "kevboutin",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevboutin/vscode-theme-dark-solarin-3"
+  },
+  "scripts": {
+    "publish": "vsce publish"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "dark-solarin-3",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-solarin-3-color-theme.json"
+      }
+    ]
+  }
+}
