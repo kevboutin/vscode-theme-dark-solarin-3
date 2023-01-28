@@ -1,4 +1,4 @@
-# dark-solarin-2
+# dark-solarin-3
 
 A theme extension for [Visual Studio Code](https://code.visualstudio.com).
 
@@ -16,7 +16,7 @@ See [CHANGELOG.md](./CHANGELOG.md)
 
 ## Setting
 
-- When installation completes, select **dark-solarin-2** as your color theme (Preferences → Workbench: Color Theme → **dark-solarin-2**)
+- When installation completes, select **dark-solarin-3** as your color theme (Preferences → Workbench: Color Theme → **dark-solarin-3**)
 
 ## Customizing
 
@@ -30,7 +30,7 @@ See [CHANGELOG.md](./CHANGELOG.md)
 
 ## Screenshot
 
-![Screenshot](https://github.com/kevboutin/vscode-theme-dark-solarin-2/raw/master/screenshot.png)
+![Screenshot](https://github.com/kevboutin/vscode-theme-dark-solarin-3/raw/master/screenshot.png)
 
 ## For more information
 
